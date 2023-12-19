@@ -1,0 +1,160 @@
+name    Animal
+r           64
+g          128
+b           64
+Name: 0, dtype: object 0
+name    Archway
+r           192
+g             0
+b           128
+Name: 1, dtype: object 1
+name    Bicyclist
+r               0
+g             128
+b             192
+Name: 2, dtype: object 2
+name    Bridge
+r            0
+g          128
+b           64
+Name: 3, dtype: object 3
+name    Building
+r            128
+g              0
+b              0
+Name: 4, dtype: object 4
+name    Car
+r        64
+g         0
+b       128
+Name: 5, dtype: object 5
+name    CartLuggagePram
+r                    64
+g                     0
+b                   192
+Name: 6, dtype: object 6
+name    Child
+r         192
+g         128
+b          64
+Name: 7, dtype: object 7
+name    Column_Pole
+r               192
+g               192
+b               128
+Name: 8, dtype: object 8
+name    Fence
+r          64
+g          64
+b         128
+Name: 9, dtype: object 9
+name    LaneMkgsDriv
+r                128
+g                  0
+b                192
+Name: 10, dtype: object 10
+name    LaneMkgsNonDriv
+r                   192
+g                     0
+b                    64
+Name: 11, dtype: object 11
+name    Misc_Text
+r             128
+g             128
+b              64
+Name: 12, dtype: object 12
+name    MotorcycleScooter
+r                     192
+g                       0
+b                     192
+Name: 13, dtype: object 13
+name    OtherMoving
+r               128
+g                64
+b                64
+Name: 14, dtype: object 14
+name    ParkingBlock
+r                 64
+g                192
+b                128
+Name: 15, dtype: object 15
+name    Pedestrian
+r               64
+g               64
+b                0
+Name: 16, dtype: object 16
+name    Road
+r        128
+g         64
+b        128
+Name: 17, dtype: object 17
+name    RoadShoulder
+r                128
+g                128
+b                192
+Name: 18, dtype: object 18
+name    Sidewalk
+r              0
+g              0
+b            192
+Name: 19, dtype: object 19
+name    SignSymbol
+r              192
+g              128
+b              128
+Name: 20, dtype: object 20
+name    Sky
+r       128
+g       128
+b       128
+Name: 21, dtype: object 21
+name    SUVPickupTruck
+r                   64
+g                  128
+b                  192
+Name: 22, dtype: object 22
+name    TrafficCone
+r                 0
+g                 0
+b                64
+Name: 23, dtype: object 23
+name    TrafficLight
+r                  0
+g                 64
+b                 64
+Name: 24, dtype: object 24
+name    Train
+r         192
+g          64
+b         128
+Name: 25, dtype: object 25
+name    Tree
+r        128
+g        128
+b          0
+Name: 26, dtype: object 26
+name    Truck_Bus
+r             192
+g             128
+b             192
+Name: 27, dtype: object 27
+name    Tunnel
+r           64
+g            0
+b           64
+Name: 28, dtype: object 28
+name    VegetationMisc
+r                  192
+g                  192
+b                    0
+Name: 29, dtype: object 29
+name    Void
+r          0
+g          0
+b          0
+Name: 30, dtype: object 30
+name    Wall
+r         64
+g        192
+b          0
+Name: 31, dtype: object 31
